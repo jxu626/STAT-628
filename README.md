@@ -1,4 +1,4 @@
-# STAT-628
+# STAT-628-project3
 
 In this project, models will be built to analyze data from three sources, including Yelp, with the goal of helping restaurateurs find key drivers of restaurant success. By focusing on restaurants in Santa Barbara, CA, the most effective attributes to promote restaurant success will be extracted from 2019 through 2021.
 
